@@ -4,11 +4,6 @@ body {
     
 }
 
-.navbar {
-    background-color: #300750;
-}
-
-
 header {
     background-color:#1A5A73;
     background-repeat: no-repeat;
@@ -27,17 +22,6 @@ header {
     margin-bottom: 30px;
     border-width: 1px;
   }
-
-  .linesep1 {
-    background: #fff;
-    height: 2px;
-    width: 70px;
-    margin: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    border-width: 1px;
-  }
-
 
   .block {
     align-content: center;
@@ -95,43 +79,13 @@ header {
     border: 0;
 }
 
-div.card {
-    width: 100%;
-    
-    text-align: center;
-}
+
 
 .tool {
     width: 150px;
     height: auto
   }
 
-
-
-
-  
- 
-
-
-
-
-
-#contact{
-    
-    background-color: #ffffff;
-
-}
-
-.d-flex {
-    display: inline-flex;
-    gap: 6px
-}
-
-#form {
-    background-color: #929fba;
-    border-radius: 15px;
-    
-}
 
 footer{
 

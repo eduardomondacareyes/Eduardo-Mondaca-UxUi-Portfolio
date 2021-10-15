@@ -1,0 +1,150 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.navbar {
+    background-color: #300750;
+}
+
+
+header {
+    background-color:#1A5A73;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 5rem;
+    background: linear-gradient(90deg, #66C8F3 0%, #1A5A73 100%, #2B3566 100%);
+}
+
+.linesep {
+    background: #fff;
+    height: 2px;
+    width: 70px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-width: 1px;
+  }
+
+  .linesep1 {
+    background: #fff;
+    height: 2px;
+    width: 70px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-width: 1px;
+  }
+
+
+  .block {
+    align-content: center;
+      width: 100px;
+      height: 2px;
+      background: #e55d87; /* Old browsers */
+      background: -moz-linear-gradient(-45deg, #e55d87 0%, #5fc3e4 100%);
+      background: -webkit-linear-gradient(-45deg, #e55d87 0%, #5fc3e4 100%);
+      background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
+      margin-top: 5px;
+  
+  }
+
+
+
+#btnprimary {
+  border-radius: 15px;
+  background-color: #1A5A73;
+  border-color: #1A5A73;
+  color: #FFFFFF;
+}
+
+#btnprimary:hover{
+
+  background-color: #6C757D;
+  border-color: #6C757D;
+  color: #FFFFFF;
+
+
+}
+
+#btnsecondary {
+  border-radius: 15px;
+  border-color: #1C3880;
+  color: #1C3880;
+}
+
+#btnsecondary:hover{
+
+  background-color: #1C3880;
+  color: #FFFFFF;
+
+}
+
+#aboutdet {
+    background-color: #FFFFFF;
+    font-size: 16px;
+}
+
+#work {
+    background-color: #FAFAFA;
+}
+
+.img-thumbnail {
+    border: 0;
+}
+
+div.card {
+    width: 100%;
+    
+    text-align: center;
+}
+
+.tool {
+    width: 150px;
+    height: auto
+  }
+
+
+
+
+  
+ 
+
+
+
+
+
+#contact{
+    
+    background-color: #ffffff;
+
+}
+
+.d-flex {
+    display: inline-flex;
+    gap: 6px
+}
+
+#form {
+    background-color: #929fba;
+    border-radius: 15px;
+    
+}
+
+footer{
+
+    background-color: #300750;
+
+}
+
+#links{
+
+    border-radius: 20px;
+    background-color: #1C3880;
+    border-color: #1C3880;
+    color: #FFFFFF;
+
+}
+
